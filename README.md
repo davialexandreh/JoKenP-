@@ -24,8 +24,5 @@
 - CSS
 <br>
 
-<h2>Abra o projeto <a href="https://davialexandreh.github.io/JoKenP-/"> clicando aqui.</a></h2>
-<br>
-
-<h2>Visualização do Projeto:</h2>
-<img src="https://github.com/davialexandreh/JoKenP-/blob/main/assets/img-home.png" alt="Project-image">
+<h2>Clique na imagem para abrir o projeto:</h2>
+<a href="https://davialexandreh.github.io/JoKenP-/"></h2><img width= 50% src="https://github.com/davialexandreh/JoKenPo/blob/main/assets/img-home.jpeg" alt="img-home"></a>
