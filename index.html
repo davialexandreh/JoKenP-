@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>JoKenPô</title>
+</head>
+
+<body>
+    <div class="container">
+        <h2>VAMOS JOGAR?</h2>
+
+        <div class="botoes">
+            <button onclick="escolhaUsuario('pedra')" id="pedra">&#x270A;&#x1F3FC;</button>
+            <button onclick="escolhaUsuario('papel')" id="papel">&#x270B;&#x1F3FE;</button>
+            <button onclick="escolhaUsuario('tesoura')" id="tesoura">&#x270C;</button>
+        </div>
+
+        <p id="pontuacao-jogador">Sua pontuação: <span id="pontos_jogador">0</span></p>
+        <p id="pontuacao-maquina">Minha pontuação: <span id="pontos_maquina">0</span></p>
+        <p id="empate">Empate: <span id="pontos_empate">0</span></p>
+        <p id="resultado"></p>
+
+        <button onclick="restart()" id="restart">RESTART</button>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>
