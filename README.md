@@ -24,7 +24,7 @@
 - CSS
 <br>
 
-<h2>Abra o arquivo <a href=""> clicando aqui.</a></h2>
+<h2>Abra o projeto <a href="https://davialexandreh.github.io/JoKenP-/"> clicando aqui.</a></h2>
 <br>
 
 <h2>Visualização do Projeto:</h2>
