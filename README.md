@@ -25,4 +25,4 @@
 <br>
 
 <h2>Clique na imagem para abrir o projeto:</h2>
-<a href="https://davialexandreh.github.io/JoKenP-/"></h2><img width= 50% src="https://github.com/davialexandreh/JoKenPo/blob/main/assets/img-home.jpeg" alt="img-home"></a>
+<a href="https://davialexandreh.github.io/JoKenP-/"><img width= 50% src="https://github.com/davialexandreh/JoKenPo/blob/main/assets/img-home.jpeg" alt="img-home"></a>
